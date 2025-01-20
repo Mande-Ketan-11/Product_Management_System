@@ -65,7 +65,9 @@ The *Product Management System* is an efficient web application for managing pro
 ---
 
 #### *Credits*  
-- *Developer*: Ketan Rajendra Mande  
+- *Developer's:*
+  - **Ketan Rajendra Mande**
+  - **Harsh Ramdhani Mishra**
 - *Frameworks and Libraries*: Bootstrap, SweetAlert2  
 
 ---
